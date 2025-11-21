@@ -1,0 +1,113 @@
+Day 18 : Javascript
+
+Javascript: 
+It is a dynamic, interpreted, lightwieght, scripting language language. Many people confuse "Javascript" wit "JAVA" which is a different programming language. These programming languages have very different syntax, semantics, and use. 
+
+- JavaScript was created by Brendan Eich in 1995 at Netscape.
+- It was developed in just 10 days and was originally called Mocha, later renamed LiveScript, and finally JavaScript.
+- Later in 2009 Node.js and Ecma 5 released with major improvements:
+- In 2015 the biggest update of javascript was released which introduced:
+1. let and const
+2. Arrow functions
+3. Classes
+4. Modules and many more... which turned javascript  into a modern and powerful programming language.
+
+Now Javascript is used in Web browsers, Mobile apps (React Native), Desktop apps (Electron), Servers (Node.js),  Even AI and IoT
+
+
+
+The Little Language That Woke Up the Web”
+
+A bedtime story between a grandpa and his sleepy grandchild
+
+Grandpa: Come here, little one. Snuggle in. Let me tell you a nighttime tale…
+A tale about a tiny magical language called JavaScript.
+
+Grandchild: Is it a real magic language, Grandpa?
+
+Grandpa: Oh yes… and it changed the whole world while most people were asleep.
+
+The Beginning – A Quiet and Lonely Web
+
+Grandpa: Long, long ago, in the year 1995, the Web was quiet… almost too quiet.
+Websites were like still paintings—pretty to look at, but they didn’t move or respond.
+If you clicked, nothing happened. If you typed, no one listened.
+
+Grandchild: Aww… that sounds lonely.
+
+Grandpa: It was, my dear. The Web needed a little spark—a sprinkle of magic.
+
+The Arrival of the Little Language
+
+Grandpa: Then came a young wizard named Brendan Eich.
+In just ten days—barely more than a week—he created a tiny magical creature.
+
+They named it many names at first: Mocha… LiveScript…
+But finally, they settled on JavaScript.
+
+Grandchild: So JavaScript was like a baby wizard?
+
+Grandpa: Exactly. A little magic-maker with big dreams.
+
+Learning the Rules of the World
+
+Grandpa: As JavaScript grew, it wandered the world of browsers—Netscape, Internet Explorer, and many others.
+But each one taught it different rules…
+
+One said, “Do it this way.”
+Another said, “No, no, do it that way.”
+
+And little JavaScript got confused.
+
+Grandchild: Poor little thing…
+
+Grandpa: Yes, that’s when the wise elders at ECMA took JavaScript in and taught it one proper, universal way.
+That way, it could be understood everywhere.
+
+The Sleepy Years
+
+Grandpa: For a while, JavaScript grew slowly.
+Sometimes it stumbled.
+Sometimes websites needed a helper named jQuery just to understand it better.
+
+But the little language never stopped trying.
+
+The Great Awakening
+
+Grandpa: Then something wonderful happened.
+In 2009, JavaScript stretched its tiny arms… and suddenly grew stronger.
+This new version was called ES5.
+
+And soon after… Node.js appeared—a magical door that allowed JavaScript to leave the browser and explore whole new worlds.
+
+Grandchild: Like going on an adventure?
+
+Grandpa: Yes, my sweet one. The biggest adventure of its life.
+
+Then in 2015, JavaScript had its greatest transformation—ES6.
+It gained new skills, new tools, new powers.
+It wasn’t a tiny language anymore—it became a true hero.
+
+A Hero of the Modern Web
+
+Grandpa: And today, little one, JavaScript is everywhere.
+It runs on websites, phones, computers, TVs, and even robots.
+
+Grandchild: Robots?? Really??
+
+Grandpa: chuckles softly
+Yes, even robots.
+From a quiet ten-day creation to a global guardian of the Web…
+JavaScript grew into something extraordinary.
+
+Grandchild: Grandpa… I like JavaScript.
+It’s like a little wizard that never gave up.
+
+Grandpa: pulls blanket up to chin
+Just like you, my dear.
+Now close your eyes…
+And maybe tomorrow, you’ll write a little magic of your own.
+
+Grandchild: Goodnight, Grandpa. Goodnight, JavaScript.
+
+Grandpa: Goodnight, little coder.
