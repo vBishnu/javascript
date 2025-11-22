@@ -15,7 +15,6 @@
 // console.log(objective)
 
 
-
 // ARRAY method
 // let names = ['Luffy', 19, 'Kenma', 'Future_Pirate_King']
 
@@ -31,7 +30,6 @@
 // // remove the last value
 // names.pop()
 
-// 
 // console.log(names)
 // console.log(names[0])
 // console.log(names[1])

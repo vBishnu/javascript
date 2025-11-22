@@ -1,0 +1,11 @@
+Day 20: Conditional Statement
+
+
+Conditional Statements allow us to perform different actions for different conditions.
+Conditional statements run different code depending on Boloen conditions true or false.
+
+Conditional statements include:
+if
+else
+return
+switch
