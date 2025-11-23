@@ -38,6 +38,10 @@ function(){
 }
 
 
+Higher order function (HOF):A function that either takes one or more functions as arguments, or returns a function (or both). HOFs let you abstract behavior, create reusable utilities, and enable functional programming patterns.forEach, map, filter, reduce, are some examples of HOF.
+
+
+
 
 ............................................................................................................................................................
 

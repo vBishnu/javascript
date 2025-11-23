@@ -58,15 +58,15 @@
 // })
 
 
-let names =["Bishnu", "Sita", "Krishna", "Parbati"]
+// let names =["Bishnu", "Sita", "Krishna", "Parbati"]
 
+// let alias = ["Toran",]
 
+// names.forEach((name)=>{
+//    alias.push(name +" Budhahtoki")
+// })
 
-let alias = names.forEach((name)=>{
-   alias.push(name +" Budhahtoki")
-})
-
-console.log(alias)
+// console.log(alias)
 
 
 // let names =["Bishnu", "Sita", "Krishna", "Parbati"]
@@ -76,5 +76,18 @@ console.log(alias)
 // })
 
 // console.log(alias)
+
+
+
+
+const colleges = [1,2,3,4,5,6,7,8,9,10]
+
+const num = colleges.filter((college)=>{
+    return college % 3 == 0
+})
+
+console.log(num)
+
+
 
 
