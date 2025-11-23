@@ -1,0 +1,44 @@
+Day 21: Functions
+
+Functions:
+Functions are reusable block of code designed to perform a particular task.
+Functions are executed when they are "called" or "invoked".
+
+
+Types of Function:
+1. Regular function
+2. Named function
+3. Arrow function
+4. Anonymous function
+
+1.Regular function:
+
+function functionName(){
+    console.log("Hello World")
+}
+
+2. Named function:
+const name= function(){
+    console.log("Hello World")
+}
+
+3. Arrow function
+()=>{
+    console.log("Hello World")
+}
+
+const name = ()=>{
+    console.log("Hello World")
+}
+
+
+4. Anonymous function:
+function(){
+    console.log("Hello World")
+}
+
+
+
+............................................................................................................................................................
+
+Learning at Digital Pathshala with Manish Basnet
